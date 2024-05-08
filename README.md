@@ -1,6 +1,11 @@
 # Git_example
 
-## Git Init
+## 目錄
+
+- [Git初始化](#Anchors)
+- [重置](#重置)
+
+## <a name="Anchors"> Git初始化 </a>
 
 - Git 初始化
 ```
@@ -36,7 +41,7 @@ git status .
 git push -u origin master
 ```
 
-## Git 重置 
+## 重置 
 ### 請小心使用！！
 - Git 查看 Commit 紀錄(**Q鍵離開**)
 ```
