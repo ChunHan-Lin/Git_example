@@ -38,7 +38,7 @@ git push -u origin master
 
 ## Git 重置 
 ### 請小心使用！！
-- Git 查看 Commit 紀錄
+- Git 查看 Commit 紀錄(**Q鍵離開**)
 ```
 git log --oneline
 ```
