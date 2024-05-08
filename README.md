@@ -2,10 +2,10 @@
 
 ## 目錄
 
-- [Git初始化](#Anchors)
+- [Git初始化](#Git初始化)
 - [重置](#重置)
 
-## <a name="Anchors"> Git初始化 </a>
+## Git初始化
 
 - Git 初始化
 ```
