@@ -3,6 +3,7 @@
 ## 目錄
 
 - [Git初始化](#Git初始化)
+- [Git日誌](#Git日誌)
 - [重置](#重置)
 
 ## Git初始化
@@ -41,7 +42,13 @@ git status .
 git push -u origin master
 ```
 
-## 重置 
+## Git日誌
+(**Q鍵離開**)
+```
+git log origin --oneline
+```
+
+## Git重置 
 ### 請小心使用！！
 - Git 查看 Commit 紀錄(**Q鍵離開**)
 ```
