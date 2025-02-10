@@ -45,6 +45,9 @@ git push -u origin master
 ## Git日誌
 (**Q鍵離開**)
 ```
+git log --all
+```
+```
 git log origin --oneline
 ```
 
